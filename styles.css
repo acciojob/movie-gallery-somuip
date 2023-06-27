@@ -1,6 +1,8 @@
-
-/* Your CSS Code here. */
-.row{
-	justify-content:center;
-	
+img{
+	height:150px;
+}
+.img-1{
+	display: grid;
+    grid-template-columns: repeat(4, 25%);
+    grid-column-gap: 10px;
 }
